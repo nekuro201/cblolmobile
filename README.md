@@ -31,7 +31,7 @@ cblolmobile is an application where the user can have fun creating a betting gro
 - [X] [Axios](https://axios-http.com)
 
 ### Dependencies
-- [X] CLIENT ID (.env) [GOOGLE AIP](https://console.cloud.google.com)
+- [X] CLIENT ID (.env) [GOOGLE API](https://console.cloud.google.com)
 - [X] SERVER URL (.env) [SERVER](https://)
 
 ## 💻 Getting started

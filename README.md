@@ -29,6 +29,7 @@ cblolmobile is an application where the user can have fun creating a betting gro
 - [X] [Expo](https://docs.expo.dev)
 - [X] [ReactBase](https://nativebase.io)
 - [X] [Axios](https://axios-http.com)
+- [X] [ReactNavigation](https://reactnavigation.org/docs/getting-started)
 
 ### Dependencies
 - [X] CLIENT ID (.env) [GOOGLE API](https://console.cloud.google.com)
@@ -50,7 +51,7 @@ $ git clone https://github.com/nekuro201/cblolmobile.git && cd cblolmobile
 
 ```bash
 # Install the dependencies
-$ npx
+$ npm
 
 # Run the emulator
 $ npx expo start

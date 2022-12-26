@@ -28,6 +28,7 @@ cblolmobile is an application where the user can have fun creating a betting gro
 - [X] [TypeScript](https://www.typescriptlang.org)
 - [X] [Expo](https://docs.expo.dev)
 - [X] [ReactBase](https://nativebase.io)
+- [X] [Axios](https://axios-http.com)
 
 ### Dependencies
 - [X] CLIENT ID (.env) [GOOGLE AIP](https://console.cloud.google.com)

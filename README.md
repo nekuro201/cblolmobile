@@ -14,7 +14,7 @@ cblolmobile is an application where the user can have fun creating a betting gro
 
 ### Features
 
-- Login with google (api);
+- Login with google [api](https://docs.expo.dev/guides/authentication/#google);
 - Create poll in database server (node);
 - List polls from a server;
 - Do poll and save in database;
